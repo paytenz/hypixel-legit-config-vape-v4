@@ -1,0 +1,42 @@
+CONFIG
+AimAssist :
+click aim - on
+Aim while on target - on
+strafe increase - off
+check block break - on
+aim vertically - off
+Horizontal Speed [4.4]
+Max Angle [269]
+Distance [4.5]
+Limit to items - off
+AutoClicker : 
+Hold to click - on
+Inventory fill - off
+Trigger mode - off
+Break blocks on - Break block delay [0 -> 0]
+break block whitelist - off
+Block hit - off
+cps [12.3 -> 16.9]
+Randomization - normal
+jitter - off
+limit items - off
+reach : 
+range [3.0 -> 3.1]
+chance - 55%
+chance mode - advanced
+misplace - off
+vertical check - off
+only while sprinting - on
+disable in water - on
+Scaffold :
+Sneak Delay [119 -> 189]
+require sneak - off
+mode - legit
+block count - off
+pitch chech - 45
+blacklist - on
+whitelist - off
+
+fast place :
+held item - blocks
+delay - 1
